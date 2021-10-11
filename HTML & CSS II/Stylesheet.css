@@ -1,0 +1,217 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+
+/*General*/
+.container{
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+body{
+  font-family: "lucida grande";
+}
+
+li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+
+/*Style Bagian atas*/
+.top-wrapper{
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  text-align: center;
+  color: white;
+  opacity: 0.7;
+  padding: 180px 0 100px 0;
+}
+
+
+.container h1{
+  font-size: 45px;
+  letter-spacing: 5px;
+  padding-bottom: 10px;
+}
+
+.container p{
+  margin-bottom: 3px;
+  opacity: 0.7;
+}
+
+
+
+/*Style Bagian Atas - Button*/
+.btn{
+  display: inline-block;
+  border-radius: 4px;
+  padding: 12px 24px;
+}
+
+.signup{
+  background-color: #239b76;
+  opacity: 0.8;
+  margin-top: 20px;
+}
+
+.facebook{
+  background-color: #3b5998;
+  opacity: 0.8;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.twitter{
+  background-color: #55acee;
+  opacity: 0.8;
+  margin-bottom: 20px;
+}
+
+.btn-wrapper p{
+  padding: 10px 0 10px 0;
+}
+
+.btn a{
+  color: white;
+}
+
+.btn:hover{
+  opacity: 1;
+}
+
+
+/*Style Bagian Header*/
+header{
+  width: 100%;
+  height: 65px;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  z-index: 10;
+  top: 0;
+}
+
+.header-left{
+  float: left;
+}
+
+.header-left img{
+  width: 124px;
+  padding-top: 20px;
+}
+
+.header-right{
+  background-color: rgba(255, 255, 255, 0.3);
+  float: right;
+  transition: all 0.5s;
+}
+
+.login{
+  line-height: 65px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: white;
+}
+
+.header-right:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+/*Style Bagian Daftar Pelajaran*/
+.contents{
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.content-title{
+  color: #5f5d60;
+  font-weight: normal;
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.content-item{
+  float: left;
+  width: 25%;
+}
+
+.content-logo{
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.content-logo p{
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+
+.text-content{
+  width: 80%;
+  color: #b3aeb5;
+  font-size: 15px;
+  display: inline-block;
+}
+
+
+/*Style Bagian Pesan*/
+
+.heading{
+  margin-top: 60px;
+  text-align: center;
+  color: #5f5d60;
+}
+
+.heading h2, h3{
+  font-weight: normal;
+}
+
+.message-wrapper{
+  padding-bottom: 80px;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+
+.message{
+  margin-top: 30px;
+  padding: 15px 40px;
+  background-color: #5dca88;
+  box-shadow: 0 7px #1a7940;
+  opacity: 0.8;
+  cursor: pointer;
+  color: white;
+}
+
+
+.message:active{
+  box-shadow: none;
+  position: relative;
+  top: 7px;
+}
+
+
+/*Style Bagian Footer*/
+footer{
+  padding-top: 30px;
+}
+
+.footer-logo{
+  width: 124px;
+}
+
+.txt-footer{
+  font-size: 12px;
+}
