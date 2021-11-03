@@ -1,0 +1,161 @@
+/* Reset CSS (JANGAN DIHAPUS) */
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Lucida Grande";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Ketik code Anda dibawah */
+.top-wrapper {
+  background-image: url(https://prog-8.com/images/html/advanced/top_en.png);
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 180px 0 100px 0;
+}
+
+.container{
+  width: 1170px;
+  margin: 0 auto;
+}
+
+.container h1{
+  font-size: 45px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  opacity: 0.7;
+}
+
+.top-wrapper p{
+  margin-bottom: px;
+  opacity: 0.7;
+}
+
+
+.btn{
+  padding: 12px 24px;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.btn a{
+  color: white;
+}
+
+.btn p{
+  opacity: 0.7;
+}
+
+.btn:hover{
+  opacity: 1;
+}
+
+.signup{
+  background-color: #239b76;
+  opacity: 0.8;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.facebook{
+  background-color: #3b5998;
+  opacity: 0.8;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.twitter{
+  background-color: #55acee;
+  opacity: 0.8;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+header{
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position: fixed;
+  z-index: 10;
+}
+
+.header-left{
+  float: left;
+}
+
+.logo{
+  width: 124px;
+  padding-top: 20px;
+}
+
+.header-right{
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.5s;
+}
+
+.header-right:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.login{
+  line-height: 65px;
+  padding-right: 25px;
+  padding-left: 25px;
+  color: white;
+}
+
+.lesson-wrapper{
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.header{
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+
+.header h2{
+  font-weight: normal;
+  color: #5f5d60;
+}
+
+.lesson{
+  width: 25%;
+  float: left;
+}
+
+.lesson-icon p{
+  position: absolute;
+  top: 90px;
+  width: 100%;
+  color: white;
+}
+
+.lesson-icon{
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.txt-lesson{
+  width: 80%;
+  font-size: 15px;
+  color: #b3aeb5;
+  display: inline-block;
+}
