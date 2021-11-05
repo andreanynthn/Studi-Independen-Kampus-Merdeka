@@ -3,10 +3,10 @@
 
 ### 📌 STUDI INDEPENDEN KAMPUS MERDEKA X PROGATE
 
-**Studi Independen** merupakan program baru dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Indonesia. Program ini bertujuan untuk memberikan kesempatan kepada mahasiswa untuk belajar bersama pelaku industri di luar kampus yang berupa pelatihan.
+<span style='text-align:justify'>**Studi Independen** merupakan program baru dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Indonesia. Program ini bertujuan untuk memberikan kesempatan kepada mahasiswa untuk belajar bersama pelaku industri di luar kampus yang berupa pelatihan.
 
 
-PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan salah satu platform belajar coding online yang menjadi mitra kegiatan Studi Independen ini. Progate menyediakan berbagai macam bahasa pemrograman yang dirancang untuk pemula yang tidak memiliki latar belakang IT sehingga mudah dipahami. Dalam kegiatan ini, selain diberikan materi peserta juga diberikan project real yang akan mengasah kemampuan peserta. Adapun materi-materi yang dipelajari adalah sebagai berikut
+PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan salah satu platform belajar coding online yang menjadi mitra kegiatan Studi Independen ini. Progate menyediakan berbagai macam bahasa pemrograman yang dirancang untuk pemula yang tidak memiliki latar belakang IT sehingga mudah dipahami. Dalam kegiatan ini, selain diberikan materi peserta juga diberikan project real yang akan mengasah kemampuan peserta. Adapun materi-materi yang dipelajari adalah sebagai berikut</span>
 <br>
 
 # 📖 <span style='text-align:center'>DAFTAR PELAJARAN</span>
