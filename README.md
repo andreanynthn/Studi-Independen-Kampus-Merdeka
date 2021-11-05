@@ -11,9 +11,9 @@ PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan sal
 
 # 📖 <span style='text-align:center'>DAFTAR PELAJARAN</span>
 
-## HTML & CSS [<span style='color:black'>[📘]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study "Materi") [<span style='color:black'>[📄]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/blob/main/HTML%20%26%20CSS/HTML%20%26%20CSS.pdf "Sertifikat") <br>
+## HTML & CSS [<span style='color:black'>[📘]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study "Study") [<span style='color:black'>[📄]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/blob/main/HTML%20%26%20CSS/HTML%20%26%20CSS.pdf "Sertifikat") <br>
 
-### Materi
+### Study
 <!--HTML & CSS I-->
 <details>
 <summary>HTML & CSS I</summary>
