@@ -9,7 +9,7 @@
 PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan salah satu platform belajar coding online yang menjadi mitra kegiatan Studi Independen ini. Progate menyediakan berbagai macam bahasa pemrograman yang dirancang untuk pemula yang tidak memiliki latar belakang IT sehingga mudah dipahami. Dalam kegiatan ini, selain diberikan materi peserta juga diberikan project real yang akan mengasah kemampuan peserta. Adapun materi-materi yang dipelajari adalah sebagai berikut
 <br>
 
-# <span style='text-align:center'>DAFTAR PELAJARAN</span> 📖
+# 📖 <span style='text-align:center'>DAFTAR PELAJARAN</span>
 
 ## HTML & CSS [<span style='color:black'>[📘]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study "Materi") [<span style='color:black'>[📄]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/blob/main/HTML%20%26%20CSS/HTML%20%26%20CSS.pdf "Sertifikat") <br>
 
