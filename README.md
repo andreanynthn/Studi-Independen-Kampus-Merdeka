@@ -8,18 +8,18 @@
 
 PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan salah satu platform belajar coding online yang menjadi mitra kegiatan Studi Independen ini. Progate menyediakan berbagai macam bahasa pemrograman yang dirancang untuk pemula yang tidak memiliki latar belakang IT sehingga mudah dipahami. Dalam kegiatan ini, selain diberikan materi peserta juga diberikan project real yang akan mengasah kemampuan peserta. Adapun materi-materi yang dipelajari adalah sebagai berikut
 
-## [<span style='color:black'>HTML & CSS</span>](http://https://progate.com/courses/html "HTML & CSS")
+## HTML & CSS [<span style='color:black'>[📘]</span>](http://https://progate.com/courses/html "HTML & CSS") [<span style='color:black'>[📄]</span>](http://https://progate.com/courses/html "HTML & CSS")
 <details>
-<summary>HTML & CSS I</summary>
+<summary>HTML & CSS I </summary>
 
-**1.** [<span style='color:black'>**Memulai dengan HTML**</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Memulai dengan HTML</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Judul & Paragraf</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Tautan</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Gambar</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Daftar</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+**1.** [<span style='color:black'>**Memulai dengan HTML**</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Memulai dengan HTML</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Judul & Paragraf</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Tautan</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Gambar</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Daftar</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
 
-**2.** [<span style='color:black'>**Memulai dengan CSS**</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Warna</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
-   + [<span style='color:black'>Ukuran Font dan Jenis Font</span>](httphttps://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+**2.** [<span style='color:black'>**Memulai dengan CSS**</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Warna</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
+   + [<span style='color:black'>Ukuran Font dan Jenis Font</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/HTML%20%26%20CSS/Study/HTML%20%26%20CSS%20I://)
 </details>
