@@ -1,0 +1,125 @@
+/*General*/
+body{
+	background-image: url(./img/background-2.jpg);
+	background-size: cover;
+	margin: 0;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+/*header*/
+.header h1{
+	font-size: 50px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+
+/*output*/
+#output {
+    width: 420px;
+    height: 130px;
+    background-color: #f8f9fbb0;
+    margin: 0 auto;
+    border-radius: 2%;
+    box-shadow: 0px 0px 6px 0px #00000069;
+    margin-bottom: 10px;
+}
+
+div#result {
+    margin: 0;
+    margin-top: 10px;
+    text-align: right;
+    line-height: 10px;
+}
+
+#result-value, #history-value{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+div#history {
+    font-size: 15px;
+    text-align: right;
+    /*line-height: 10px;*/
+}
+
+/*keyboard*/
+.keyboard {
+    width: 420px;
+    height: 430px;
+    background-color: #67c3fe8c;
+    margin: 0 auto;
+    border-radius: 2%;
+    box-shadow: 0px 0px 4px 1px #00000091;
+}
+
+
+button {
+    font-size: 30px;
+    border-radius: 30%;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+    margin-right: 40px;
+    border: none;
+    text-align: center;
+    background-color: transparent;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #82a5c54d;
+}
+
+.number:hover{
+    background-color: #5c9d9dc4;
+}
+
+.number:active{
+    background-color: #1e4e4e9c;
+}
+
+.none:hover{
+    background-color: transparent;
+}
+
+.row{
+	padding-top: 30px;
+	padding-left: 30px;
+	text-align: center;
+}
+
+#empty{
+	color: transparent;
+}
+
+.operator {
+    color: #ff9426;
+    background-color: #305e5ecc;
+}
+
+
+/*footer*/
+.footer {
+    text-align: center;
+}
+
+.footer-title{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Baloo Bhai 2', cursive;
+    text-decoration: none;
+    color: black;
+}

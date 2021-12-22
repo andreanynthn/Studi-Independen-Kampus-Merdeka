@@ -1,0 +1,18 @@
+@media all and (max-width:  670px){
+	body{
+		background-image: url(./img/background-2.jpg);
+		background-repeat: no-repeat;
+	}
+
+	button{
+		margin-right: 30px;
+	}
+
+	#output{
+		width: 400px;
+	}
+
+	.keyboard{
+		width: 400px;
+	}
+}
