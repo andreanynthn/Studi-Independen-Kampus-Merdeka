@@ -1,4 +1,4 @@
-<img src="https://kampusmerdeka.kemdikbud.go.id/static/media/logo-white.d216d864.webp"><img src="https://prog-8.com/assets/landing/primary_logo-4d1810538e410b4c6af84210420099ca1772e8cb39013fad8532e499bcdb136e.svg"  width="180" height="35" >
+<img src="https://stmikgici.ac.id/wp-content/uploads/2020/09/MASTER.png"><img src="https://prog-8.com/assets/landing/primary_logo-4d1810538e410b4c6af84210420099ca1772e8cb39013fad8532e499bcdb136e.svg"  width="180" height="35" >
 
 
 ### 📌 STUDI INDEPENDEN KAMPUS MERDEKA X PROGATE
