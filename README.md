@@ -204,7 +204,7 @@ PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan sal
    + Beberapa Kondisi
    + Statement switch (1)
    + Statement switch (2)
-
+   </details>
 
 <!--JavaScript II-->
 <details>
@@ -237,3 +237,87 @@ PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan sal
 **5.** **Proyek Akhir** 
    + Bagian 1
    + Bagian 2
+</details>
+
+<!--JavaScript III-->
+<details>
+<summary>JavaScript III</summary>
+<br>
+
+**1.** **Mempelajari Function** 
+   + Apa yang dimaksud dengan Function? (1)
+   + Apa yang dimaksud dengan Function? (2)
+   + Arrow Function
+   + Argument
+   + Menggunakan Beberapa Argument
+   + Nilai Return
+   + Menggunakan Nilai Return
+   + Scope (Cakupan)
+   + Latihan Akhir
+</details>
+
+<!--JavaScript IV-->
+<details>
+<summary>JavaScript IV</summary>
+<br>
+
+**1.** **Dasar-Dasar Class** 
+   + Review Object
+   + Apa yang dimaksud dengan Class?
+   + Membuat Instance
+   + Constructor (1)
+   + Constructor (2)
+   + Constructor (3)
+   + Method (1)
+   + Method (2)
+   + Memanggil Method di dalam Method
+   
+**2.** **Inheritance Class** 
+   + Apa yang dimaksud dengan Inheritance?
+   + Menggunakan Inheritance Class
+   + Menambah Method
+   + Overriding (1)
+   + Overriding (2)
+</details>
+
+<!--JavaScript V-->
+<details>
+<summary>JavaScript V</summary>
+<br>
+
+**1.** **Memisahkan File** 
+   + Memisahkan File (1)
+   + Memisahkan File (2)
+   + Meng-export Nilai
+   + Export Bernama
+   + Jalur Relatif
+   
+**2.** **Menggunakan Paket** 
+   + Paket (1)
+   + Paket (2)
+</details>
+
+<!--JavaScript VI-->
+<details>
+<summary>JavaScript VI</summary>
+<br>
+
+**1.** **Method untuk Array** 
+   + Push
+   + forEach
+   + Find
+   + Filter
+   + Map
+</details>
+
+<!--JavaScript VII-->
+<details>
+<summary>JavaScript VII</summary>
+<br>
+
+**1.** **Mempelajari tentang Callback Function** 
+   + Mempelajari tentang Callback Function
+   + Apa yang dimaksud dengan Callback Function
+   + Mendeklarasikan Callback Function secara Langsung
+   + Argument Callback Function
+</details>
