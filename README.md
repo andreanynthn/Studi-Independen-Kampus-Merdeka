@@ -320,4 +320,124 @@ PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan sal
    + Apa yang dimaksud dengan Callback Function
    + Mendeklarasikan Callback Function secara Langsung
    + Argument Callback Function
+</details><br>
+
+## SQL [<span style='color:black'>[📘]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/SQL/Study "Study") [<span style='color:black'>[📄]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/blob/main/SQL/Sertifikat.pdf "Sertifikat") <br>
+
+### Study
+<!--SQL I-->
+<details>
+<summary>SQL I</summary>
+<br>
+
+**1.** **Mendapatkan Data** 
+   + Apa itu database?
+   + Apa itu Kueri?
+   + Memilih Banyak Kolom
+
+**2.** **Mendapatkan Baris Tertentu**
+   + WHERE (1)
+   + WHERE (2)
+   + Operator Perbandingan
+   + Like (1)
+   + Like (2)
+   + NOT
+   + IS NULL - IS NOT NULL
+   + AND - OR
+   
+**3.** **Mengolah Hasil**
+   + ORDER BY
+   + LIMIT
+   
+**4.** **Proyek Akhir**
+   + Mempraktikkan Hal Yang Sudah Anda Pelajari
+</details>
+
+<!--SQL II-->
+<details>
+<summary>SQL II</summary>
+<br>
+
+**1.** **Mengolah Hasil Pencarian** 
+   + DISTINCT
+   + Operator Aritmetika
+
+**2.** **Menggunakan Function Agregat**
+   + SUM
+   + AVG
+   + COUNT
+   + MAX - MIN
+   
+**3.** **Mengelompokkan Data**
+   + GROUP BY
+   + GROUP BY (lebih dari satu)
+   + GROUP BY (WHERE)
+   + HAVING
+   
+**4.** **Proyek Akhir**
+   + Mempraktikkan Hal Yang Sudah Anda Pelajari
+</details>
+
+<!--SQL III-->
+<details>
+<summary>SQL III</summary>
+<br>
+
+**1.** **Menggunakan Subkueri** 
+   + Tabel Players
+   + Subkueri
+   + AS
+
+**2.** **Beberapa Tabel**
+   + Tabel countries
+   + Menggabungkan Tabel
+   + JOIN (1)
+   + JOIN (2)
+   + Tabel teams
+   + LEFT JOIN
+   + Menggabungkan 3 Tabel
+   
+**3.** **Tantangan Terakhir**
+   + Mempraktikkan Keterampilan Anda
+</details>
+
+<!--SQL IV-->
+<details>
+<summary>SQL IV</summary>
+<br>
+
+**1.** **Menambahkan, Memperbarui, dan Menghapus Data** 
+   + INSERT
+   + UPDATE
+   + DELETE
+
+**2.** **Beberapa Tabel**
+   + Tabel countries
+   + Menggabungkan Tabel
+   + JOIN (1)
+   + JOIN (2)
+   + Tabel teams
+   + LEFT JOIN
+   + Menggabungkan 3 Tabel
+   
+**4.** **Memantapkan Keterampilan Anda**
+   + Mempraktikkan Hal Yang Sudah Anda Pelajari
+</details>
+
+### Dojo (Latihan)
+<!--SQL I-->
+<details>
+<summary>SQL I</summary><br>
+
+**Menganalisis Database Situs Fashion** 
+   + Menganalisis dengan SQL
+   + Pengguna
+   + Produk (1)
+   + Produk (2)
+   + Produk (3)
+   + Riwayat Penjualan
+   + Penjualan dan Laba
+   + Analisis Harian
+   + Data Pengguna yang Kompleks
+   + Data Produk yang Kompleks
 </details>
