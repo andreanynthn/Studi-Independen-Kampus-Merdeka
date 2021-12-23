@@ -170,3 +170,70 @@ PT. Progate Global Indonesia atau lebih dikenal dengan **Progate** merupakan sal
    + Menjadikan Daftar Pelajaran Responsive
    + Menjadikan Footer Responsive
 </details>
+<br>
+
+## JavaScript [<span style='color:black'>[📘]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/tree/main/JavaScript "Study") [<span style='color:black'>[📄]</span>](https://github.com/andreanynthn/Studi-Independen-Kampus-Merdeka/blob/main/JavaScript/Sertifikat%20-%20JavaScript.pdf "Sertifikat") <br>
+
+### Study
+<!--JavaScript I-->
+<details>
+<summary>JavaScript I</summary>
+<br>
+
+**1.** **String dan Integer** 
+   + Pengantar JavaScript (ES6)
+   + console.log()
+   + Kalkulasi (1)
+   + Kalkulasi (2)
+   + Menggabungkan String
+
+**2.** **Variable & Constant** 
+   + Variable
+   + Menggunakan Variable
+   + Mengupdate Variable (1)
+   + Mengupdate Variable (2)
+   + Constant
+   + Template Literal
+   
+**3.** **Conditional Statement** 
+   + Statement if
+   + Operator Boolean & Perbandingan (1)
+   + Operator Boolean & Perbandingan (2)
+   + else
+   + else if
+   + Beberapa Kondisi
+   + Statement switch (1)
+   + Statement switch (2)
+
+
+<!--JavaScript II-->
+<details>
+<summary>JavaScript II</summary>
+<br>
+
+**1.** **Iterasi** 
+   + Review Variable
+   + Loop while
+   + Loop for
+   + Menerapkan Iterasi
+
+**2.** **Array** 
+   + Apa yang dimaksud dengan array?
+   + Mendapatkan Element Array
+   + Mengupdate Element Array
+   + Iterasi dengan Array (1)
+   + Iterasi dengan Array (2)
+   
+**3.** **Object** 
+   + Apa yang dimaksud dengan Object?
+   + Mengakses & Memperbarui Nilai
+   + Array dalam Object (1)
+   + Array dalam Object (2)
+   
+**4.** **undefined (tidak didefinisikan)** 
+   + Apa yang dimaksud dengan "undefined"?
+   + Mencegah Undefined
+   
+**5.** **Proyek Akhir** 
+   + Bagian 1
+   + Bagian 2
